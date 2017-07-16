@@ -12,7 +12,7 @@
     "object-hash": "0.3.0",
     "request": "2.25.0",
     "simple-errors": "1.0.0",
-    "winston": "0.7.2"
+    "winston": "2.3.1"
   },
   "description": "Base Connector",
   "devDependencies": {
